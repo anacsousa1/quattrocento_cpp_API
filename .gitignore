@@ -1,3 +1,8 @@
+# Folders
+build
+.vscode
+
+
 # Prerequisites
 *.d
 
@@ -30,6 +35,3 @@
 *.exe
 *.out
 *.app
-
-# Folders
-/build
